@@ -1,0 +1,76 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+.body {
+    font-family: sans-serif;
+    line-height: 1.5%;
+}
+
+.container-2 {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5%;
+    box-sizing: border-box;
+    background-color: rgba(255, 255, 255, 0.829);
+}
+
+.titleOne {
+    font-size: 30px;
+    position: absolute;
+    left: 21px;
+    top: 33px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titleTwo {
+    font-size: 30px;
+    position: absolute;
+    left: 28px;
+    
+    
+    top: 76px;
+    font-family: initial;
+    letter-spacing: 3px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.description {
+    font-size: 24px;
+    text-decoration: none;
+    position: absolute;
+    left: 111px;
+    top: 150px;
+    white-space: revert;
+    padding-right: 773px;
+    line-height: 33px;
+}
+
+.image1 {
+    width: 471px;
+    position: absolute;
+    top: 127px;
+    left: 900px;
+    height: 100vh;
+    ;
+}
+
+.image2 {
+    width: 473px;
+    position: absolute;
+    top: 583px;
+    left: 105px;
+    height: 50vh;
+}
+
+.imageBg {
+    width: 1307px;
+    padding-top: 217px;
+    padding-left: 57px;
+}

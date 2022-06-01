@@ -1,0 +1,98 @@
+.container-4 {
+    min-height: 430vh;
+    display: grid;
+    place-items: center;
+}
+
+
+.slider {
+    height: 250px;
+    margin: auto;
+    position: relative;
+    width: 100%;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+
+.slide-show {
+    display: flex;
+    width: calc(250px * 18);
+    animation: scroll 10s linear infinite;
+}
+
+/* .slide-track:hover {
+    animation-play-state: paused;
+} */
+
+@keyframes scroll {
+    0% {
+        transform: translate(0);
+    }
+
+    100% {
+        transform: translate(calc(-250px*9));
+    }
+}
+
+.slide {
+    height: 100vh;
+    width: 360px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    perspective: 100px;
+}
+
+
+.click:hover {
+    position:relative;
+    top:100px;
+    left:-2px;
+    width:350px;
+    height:9vh;
+    display:block;
+    z-index :999px;
+    /* overflow: hidden; */
+}
+
+.slider::before,
+.slider::after {
+    background: linear-gradient(to right, rgb(255, 255, 255) 0% rgb(0, 0, 0) 100%);
+    content: '';
+    height: 100%;
+    position: absolute;
+    width: 15%;
+    z-index: 2;
+}
+
+.slider::before {
+    left: 0;
+    top: 0;
+}
+
+.slider::after {
+    right: 0;
+    top: 0;
+    transform: rotateZ(180deg);
+}
+
+.TitleOfCard {
+    position: absolute;
+    top: 407px;
+    left: 43px;
+    font-size: 35px;
+    color: #f7f7f7;
+
+}
+
+.DescriptionOfCard{
+    position: absolute;
+    top: 471px;
+    left: 44px;
+    font-size: 17px;
+    color: #fffdfd;
+    letter-spacing: 0px;
+}
+
+

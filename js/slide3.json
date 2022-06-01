@@ -1,0 +1,52 @@
+"Content3": [
+    {
+      "Title": "Zapotal",
+      "Description": "Guanacaste, Costa Rica",
+      "image":"../asset/images/slide1.jpg"
+    },
+    {
+      "Title": "James Island",
+      "Description": "Columbia Canada",
+       "image":"../asset/images/slide2.jpg"
+    },
+    {
+      "Title": "Costa Terra",
+      "Description": "Comporta, Portugal",
+      "image":"../asset/images/slide3.jpg"
+    },
+    {
+      "Title": "Driftwood",
+      "Description": "Austin, Texas",
+      "image":"../asset/images/slide4.jpg"
+    },
+    {
+      "Title": "Troubadour",
+      "Description": "Nashville, Tannessee",
+      "image":"../asset/images/slide5.jpg"
+    },
+    {
+      "Title": "Playa Grande",
+      "Description": "Rio San Juan, Dominician Republic",
+      "image":"../asset/images/slide6.jpg"
+    },
+    {
+      "Title": "The Summit",
+      "Description": "Las Vegas, Nevada",
+      "image": "image":"../asset/images/slide7.jpg"
+    },
+    {
+      "Title": "Dune Deck",
+      "Description": "Westhampton Beach, NY",
+      "image":"../asset/images/slide8.jpg"
+    },
+    {
+      "Title": "Silo Ridge",
+      "Description": "Amenia, New York",
+      "image":"../asset/images/slide9.jpg"
+    }
+    
+  ]
+}
+  
+  
+

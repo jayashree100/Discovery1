@@ -1,0 +1,72 @@
+{
+  "Content1": {
+    "id": "1",
+    "TitleLine1": "Welcome to",
+    "TitleLine2": "our world",
+    "Description": "Discover the unique atmosphere of our private residential club communities. Once experienced. Never forgotten. This is classic, comfortable, modern living in nature’s most spectacular settings worldwide. Reassuringly exclusive. Generously welcoming. Find your unique world – a place where families love to be; creating unforgettable moments, together.",
+    "image1": "../asset/images/image1.jpg",
+    "image2": "../asset/images/image2.jpg",
+    "imageBg": "../asset/images/imageBg.jpg"
+  },
+  "Content2": {
+    "TitleLine1": "Explore",
+    "TitleLine2": "our worlds"
+  },
+  "Content3": [
+    {
+      "Title": "Zapotal",
+      "Description": "Guanacaste, Costa Rica",
+      "image" : "../asset/Cards/card1.jpg"
+    },
+    {
+      "Title": "James Island",
+      "Description": "Columbia Canada",
+      "image" : "../asset/Cards/card2.jpg"
+    },
+    {
+      "Title": "Costa Terra",
+      "Description": "Comporta, Portugal",
+      "image" : "../asset/Cards/card3.jpg"
+    },
+    {
+      "Title": "Driftwood",
+      "Description": "Austin, Texas",
+      "image" : "../asset/Cards/card4.jpg"
+    },
+    {
+      "Title": "Troubadour",
+      "Description": "Nashville, Tannessee",
+      "image" : "../asset/Cards/card5.jpg"
+    },
+    {
+      "Title": "Playa Grande",
+      "Description": "Rio San Juan, Dominician Republic",
+      "image" : "../asset/Cards/card6.jpg"
+    },
+    {
+      "Title": "The Summit",
+      "Description": "Las Vegas, Nevada",
+      "image" : "../asset/Cards/card7.jpg"
+    },
+    {
+      "Title": "Dune Deck",
+      "Description": "Westhampton Beach, NY",
+      "image" : "../asset/Cards/card8.jpg"
+    },
+    {
+      "Title": "Silo Ridge",
+      "Description": "Amenia, New York",
+      "image" : "../asset/Cards/card9.jpg"
+    },
+    {
+      "Title": " Makena",
+      "Description": " Mai hauli",
+      "image" : "../asset/Cards/card10.jpg"
+    }
+  ]
+  
+}
+
+
+  
+  
